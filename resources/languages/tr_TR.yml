@@ -1,11 +1,11 @@
-# Here you can select the messages of theRankShop
+# The new year surprise :)
 
-# tr_TR by @xAliTura01 | 22.10.2021
+# tr_TR by @theilqer | 31.12.2021
 
 
 
 # Messages
-msg-rankbuyevent-cancelled: "§4RankBuyEvent iptal edildi!"
+msg-rankbuyevent-cancelled: "§4Eşya Satın Alma iptal edildi!"
 
 msg-rankbuy-noMoney: "§cSeçilen rütbe için yeterli paranız yok! (Eksik para: {missing})"
 
@@ -21,7 +21,7 @@ forms-menu-title: "§bRütbe§7Market"
 forms-menu-content: "§rLütfen bir rütbe seçin."
 
 forms-buyRank-title: "§bRütbe§7Market"
-forms-buyRank-content: "§eRank-Description:{line}§r{description}"
+forms-buyRank-content: "§eRütbe-Açıklaması:{line}§r{description}"
 forms-buyRank-submit: "§aSatın al"
 forms-buyRank-cancel: "§cİptal et"
 forms-buyRank-cancel-msg: "§cİptal edildi!"
